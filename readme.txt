@@ -1,4 +1,4 @@
-This file contains the following notes:
+This repository contains the following notes:
 
 Ordinary Differential Equations
 - Math 119A Midterm 1 Notes
